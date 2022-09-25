@@ -1,6 +1,6 @@
 {
-  "name": "whatsapp-bot (hermit-md)",
-  "description": " Whatsapp bot.",
+  "name": "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙",
+  "description": " ┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙.",
   "keywords": [
     "whatsapp bot"
   ],
@@ -15,7 +15,7 @@
     "SUDO": {
       "description": "admin",
       "required": true,
-      "value": "null"
+      "value": "918505038661"
     },
     "MODE": {
       "description": "mode",
@@ -25,7 +25,7 @@
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered",
@@ -43,32 +43,32 @@
     "PREFIX": {
       "description": "prefix for bot. all so can be null or false multi prefix",
       "required": true,
-      "value": "."
+      "value": "#"
     },
     "BOT_INFO": {
-      "description": "botname;ownername;ownernumber;image url",
+      "description": "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮"
+      "value": "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "┕━━☽【ᴘʀᴀᴅᴇᴇᴘ】☾━━┙"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
   "ERROR_MESSAGE": {
       "description": "get error alert",
       "required": false,
-      "value": "true"
+      "value": "false"
     }
   },
   "addons": [
